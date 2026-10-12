@@ -119,10 +119,3 @@ While documenting the workbook I found a few data problems you may want to fix b
 - Add profit margin analysis if cost data becomes available
 - Replace 3-D charts with 2-D versions for easier reading
 
----
-
-## 👤 Author
-
-*Your Name*: built as a data-analytics portfolio project in Excel. (Add your GitHub / LinkedIn links here.)
-
-*Dataset appears to be the widely used "Sales Data Sample" of vehicle and model orders.*
